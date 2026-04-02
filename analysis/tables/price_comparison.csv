@@ -1,0 +1,8 @@
+platform,product_name,avg_price,min_price,max_price,price_std,sample_size
+Uber,10 McNuggets,94.97049999999999,93.26,96.64,1.0354885701674177,20
+DiDi,Big Mac,151.61300000000003,147.57,154.95,2.4574207702600006,20
+Uber,Big Mac,165.423,162.47,168.2,1.5759010789152696,20
+Rappi,Big Mac Tocino,155.0,145.0,165.0,14.142135623730951,2
+Rappi,Big Mac Tocino + favoritos,328.0,328.0,328.0,0.0,18
+DiDi,McNuggets 10 piezas,85.6385,83.54,87.65,1.5199732511496802,20
+Rappi,McTrío mediano Big Mac Tocino,174.1,169.0,189.0,8.245572974888438,20

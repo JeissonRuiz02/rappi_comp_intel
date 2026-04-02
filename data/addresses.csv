@@ -1,0 +1,21 @@
+id,lat,lon,zone_type,neighborhood
+1,19.432608,-99.133209,commercial,Centro Historico
+2,19.432000,-99.193000,corporate,Polanco
+3,19.359000,-99.258000,corporate,Santa Fe
+4,19.427500,-99.204500,high_income,Lomas de Chapultepec
+5,19.419000,-99.145000,trendy_residential,Roma Norte
+6,19.411000,-99.172000,trendy_residential,Condesa
+7,19.385000,-99.164000,mid_income,Colonia Del Valle
+8,19.394000,-99.150000,mid_income,Narvarte
+9,19.348000,-99.152000,commercial_residential,Coyoacan Centro
+10,19.288000,-99.136000,mid_income,Coapa
+11,19.303000,-99.188000,high_income,Jardines del Pedregal
+12,19.360000,-99.074000,peripheral_populous,Iztapalapa Centro
+13,19.483000,-99.113000,peripheral,Lindavista
+14,19.256000,-99.103000,peripheral_populous,Xochimilco
+15,19.400000,-99.050000,peripheral_populous,Pantitlan
+16,19.498000,-99.210000,peripheral_industrial,Azcapotzalco
+17,19.315000,-99.245000,peripheral_residential,Magdalena Contreras
+18,19.380000,-99.090000,mid_income,Iztacalco
+19,19.450000,-99.178000,mid_income,Anzures
+20,19.426000,-99.168000,commercial,Zona Rosa

@@ -1,0 +1,31 @@
+platform,zone_type,avg_eta,min_eta,max_eta,sample_size
+DiDi,commercial,,33,40,4
+Uber,commercial,,27,30,4
+Rappi,commercial,,13 min,13 min,4
+Uber,commercial_residential,,31,31,2
+Rappi,commercial_residential,,13 min,13 min,2
+DiDi,commercial_residential,,31,31,2
+Rappi,corporate,,13 min,13 min,4
+Uber,corporate,,25,31,4
+DiDi,corporate,,34,40,4
+DiDi,high_income,,34,39,4
+Uber,high_income,,26,34,4
+Rappi,high_income,,13 min,15 min,4
+Rappi,mid_income,,13 min,20 min,10
+Uber,mid_income,,26,34,10
+DiDi,mid_income,,31,38,10
+DiDi,peripheral,,33,33,2
+Uber,peripheral,,31,31,2
+Rappi,peripheral,,13 min,13 min,2
+Uber,peripheral_industrial,,31,31,2
+DiDi,peripheral_industrial,,31,31,2
+Rappi,peripheral_industrial,,12 min,12 min,2
+Uber,peripheral_populous,,31,35,6
+Rappi,peripheral_populous,,13 min,20 min,6
+DiDi,peripheral_populous,,32,39,6
+Uber,peripheral_residential,,25,25,2
+Rappi,peripheral_residential,,30 min,30 min,2
+DiDi,peripheral_residential,,34,34,2
+DiDi,trendy_residential,,31,36,4
+Uber,trendy_residential,,27,30,4
+Rappi,trendy_residential,,13 min,13 min,4

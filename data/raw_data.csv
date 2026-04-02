@@ -1,0 +1,121 @@
+platform,timestamp,lat,lon,product_name,price,real_price,discount_percentage,discounted_price,has_discount,discount_type,delivery_fee,eta,is_available,address_id,zone_type,neighborhood
+Rappi,2026-04-01T19:31:43.215232,19.432608,-99.133209,Big Mac Tocino + favoritos,,328.0,39.0,200.08,true,global_offer,9.899999618530273,13 min,false,1,commercial,Centro Historico
+Rappi,2026-04-01T19:31:43.215986,19.432608,-99.133209,McTrío mediano Big Mac Tocino,,169.0,0.0,,false,,9.899999618530273,13 min,false,1,commercial,Centro Historico
+Uber,2026-04-02T00:31:43.220726,19.432608,-99.133209,Big Mac,163.82,,,,,,21.12,27,,1,commercial,Centro Historico
+Uber,2026-04-02T00:31:43.220740,19.432608,-99.133209,10 McNuggets,95.53,,,,,,21.12,27,,1,commercial,Centro Historico
+DiDi,2026-04-02T00:31:43.224880,19.432608,-99.133209,Big Mac,148.55,,,,,,22.01,33,,1,commercial,Centro Historico
+DiDi,2026-04-02T00:31:43.224896,19.432608,-99.133209,McNuggets 10 piezas,85.04,,,,,,22.01,33,,1,commercial,Centro Historico
+Rappi,2026-04-01T19:31:47.855743,19.432,-99.193,Big Mac Tocino + favoritos,,328.0,39.0,200.08,true,global_offer,20.0,13 min,false,2,corporate,Polanco
+Rappi,2026-04-01T19:31:47.856318,19.432,-99.193,McTrío mediano Big Mac Tocino,,169.0,0.0,,false,,20.0,13 min,false,2,corporate,Polanco
+Uber,2026-04-02T00:31:47.860771,19.432,-99.193,Big Mac,167.37,,,,,,22.65,31,,2,corporate,Polanco
+Uber,2026-04-02T00:31:47.860776,19.432,-99.193,10 McNuggets,93.71,,,,,,22.65,31,,2,corporate,Polanco
+DiDi,2026-04-02T00:31:47.862203,19.432,-99.193,Big Mac,153.48,,,,,,21.1,40,,2,corporate,Polanco
+DiDi,2026-04-02T00:31:47.862206,19.432,-99.193,McNuggets 10 piezas,87.38,,,,,,21.1,40,,2,corporate,Polanco
+Rappi,2026-04-01T19:31:51.559438,19.359,-99.258,Big Mac Tocino + favoritos,,328.0,39.0,200.08,true,global_offer,9.899999618530273,13 min,false,3,corporate,Santa Fe
+Rappi,2026-04-01T19:31:51.560255,19.359,-99.258,McTrío mediano Big Mac Tocino,,189.0,0.0,,false,,9.899999618530273,13 min,false,3,corporate,Santa Fe
+Uber,2026-04-02T00:31:51.562626,19.359,-99.258,Big Mac,164.71,,,,,,27.45,25,,3,corporate,Santa Fe
+Uber,2026-04-02T00:31:51.562633,19.359,-99.258,10 McNuggets,96.19,,,,,,27.45,25,,3,corporate,Santa Fe
+DiDi,2026-04-02T00:31:51.564397,19.359,-99.258,Big Mac,152.3,,,,,,20.17,34,,3,corporate,Santa Fe
+DiDi,2026-04-02T00:31:51.564405,19.359,-99.258,McNuggets 10 piezas,87.28,,,,,,20.17,34,,3,corporate,Santa Fe
+Rappi,2026-04-01T19:31:56.195394,19.4275,-99.2045,Big Mac Tocino + favoritos,,328.0,39.0,200.08,true,global_offer,9.899999618530273,13 min,false,4,high_income,Lomas de Chapultepec
+Rappi,2026-04-01T19:31:56.195551,19.4275,-99.2045,McTrío mediano Big Mac Tocino,,169.0,0.0,,false,,9.899999618530273,13 min,false,4,high_income,Lomas de Chapultepec
+Uber,2026-04-02T00:31:56.196819,19.4275,-99.2045,Big Mac,165.15,,,,,,28.18,26,,4,high_income,Lomas de Chapultepec
+Uber,2026-04-02T00:31:56.196825,19.4275,-99.2045,10 McNuggets,93.26,,,,,,28.18,26,,4,high_income,Lomas de Chapultepec
+DiDi,2026-04-02T00:31:56.198155,19.4275,-99.2045,Big Mac,150.78,,,,,,25.52,39,,4,high_income,Lomas de Chapultepec
+DiDi,2026-04-02T00:31:56.198158,19.4275,-99.2045,McNuggets 10 piezas,83.93,,,,,,25.52,39,,4,high_income,Lomas de Chapultepec
+Rappi,2026-04-01T19:31:58.859718,19.419,-99.145,Big Mac Tocino + favoritos,,328.0,39.0,200.08,true,global_offer,9.899999618530273,13 min,false,5,trendy_residential,Roma Norte
+Rappi,2026-04-01T19:31:58.860209,19.419,-99.145,McTrío mediano Big Mac Tocino,,169.0,0.0,,false,,9.899999618530273,13 min,false,5,trendy_residential,Roma Norte
+Uber,2026-04-02T00:31:58.863575,19.419,-99.145,Big Mac,163.71,,,,,,22.07,30,,5,trendy_residential,Roma Norte
+Uber,2026-04-02T00:31:58.863602,19.419,-99.145,10 McNuggets,95.51,,,,,,22.07,30,,5,trendy_residential,Roma Norte
+DiDi,2026-04-02T00:31:58.868305,19.419,-99.145,Big Mac,154.95,,,,,,28.2,36,,5,trendy_residential,Roma Norte
+DiDi,2026-04-02T00:31:58.868315,19.419,-99.145,McNuggets 10 piezas,83.91,,,,,,28.2,36,,5,trendy_residential,Roma Norte
+Rappi,2026-04-01T19:32:02.179899,19.411,-99.172,Big Mac Tocino + favoritos,,328.0,39.0,200.08,true,global_offer,9.899999618530273,13 min,false,6,trendy_residential,Condesa
+Rappi,2026-04-01T19:32:02.180403,19.411,-99.172,McTrío mediano Big Mac Tocino,,169.0,0.0,,false,,9.899999618530273,13 min,false,6,trendy_residential,Condesa
+Uber,2026-04-02T00:32:02.181858,19.411,-99.172,Big Mac,167.44,,,,,,24.2,27,,6,trendy_residential,Condesa
+Uber,2026-04-02T00:32:02.181863,19.411,-99.172,10 McNuggets,96.47,,,,,,24.2,27,,6,trendy_residential,Condesa
+DiDi,2026-04-02T00:32:02.183720,19.411,-99.172,Big Mac,149.19,,,,,,28.03,31,,6,trendy_residential,Condesa
+DiDi,2026-04-02T00:32:02.183723,19.411,-99.172,McNuggets 10 piezas,87.65,,,,,,28.03,31,,6,trendy_residential,Condesa
+Rappi,2026-04-01T19:32:06.816391,19.385,-99.164,Big Mac Tocino + favoritos,,328.0,39.0,200.08,true,global_offer,9.899999618530273,13 min,false,7,mid_income,Colonia Del Valle
+Rappi,2026-04-01T19:32:06.817066,19.385,-99.164,McTrío mediano Big Mac Tocino,,185.0,0.0,,false,,9.899999618530273,13 min,false,7,mid_income,Colonia Del Valle
+Uber,2026-04-02T00:32:06.819776,19.385,-99.164,Big Mac,164.56,,,,,,25.92,26,,7,mid_income,Colonia Del Valle
+Uber,2026-04-02T00:32:06.819787,19.385,-99.164,10 McNuggets,93.84,,,,,,25.92,26,,7,mid_income,Colonia Del Valle
+DiDi,2026-04-02T00:32:06.821489,19.385,-99.164,Big Mac,152.29,,,,,,26.61,38,,7,mid_income,Colonia Del Valle
+DiDi,2026-04-02T00:32:06.821493,19.385,-99.164,McNuggets 10 piezas,84.46,,,,,,26.61,38,,7,mid_income,Colonia Del Valle
+Rappi,2026-04-01T19:32:10.029118,19.394,-99.15,Big Mac Tocino + favoritos,,328.0,39.0,200.08,true,global_offer,9.899999618530273,13 min,false,8,mid_income,Narvarte
+Rappi,2026-04-01T19:32:10.030338,19.394,-99.15,McTrío mediano Big Mac Tocino,,179.0,0.0,,false,,9.899999618530273,13 min,false,8,mid_income,Narvarte
+Uber,2026-04-02T00:32:10.033471,19.394,-99.15,Big Mac,168.2,,,,,,26.62,33,,8,mid_income,Narvarte
+Uber,2026-04-02T00:32:10.033482,19.394,-99.15,10 McNuggets,94.18,,,,,,26.62,33,,8,mid_income,Narvarte
+DiDi,2026-04-02T00:32:10.036920,19.394,-99.15,Big Mac,154.15,,,,,,23.49,32,,8,mid_income,Narvarte
+DiDi,2026-04-02T00:32:10.036928,19.394,-99.15,McNuggets 10 piezas,85.84,,,,,,23.49,32,,8,mid_income,Narvarte
+Rappi,2026-04-01T19:32:12.755357,19.348,-99.152,McTrío mediano Big Mac Tocino,,189.0,0.0,,false,,9.899999618530273,13 min,false,9,commercial_residential,Coyoacan Centro
+Rappi,2026-04-01T19:32:12.755507,19.348,-99.152,Big Mac Tocino,,165.0,0.0,,false,,9.899999618530273,13 min,false,9,commercial_residential,Coyoacan Centro
+Uber,2026-04-02T00:32:12.756696,19.348,-99.152,Big Mac,166.32,,,,,,27.39,31,,9,commercial_residential,Coyoacan Centro
+Uber,2026-04-02T00:32:12.756700,19.348,-99.152,10 McNuggets,94.42,,,,,,27.39,31,,9,commercial_residential,Coyoacan Centro
+DiDi,2026-04-02T00:32:12.759091,19.348,-99.152,Big Mac,149.8,,,,,,21.06,31,,9,commercial_residential,Coyoacan Centro
+DiDi,2026-04-02T00:32:12.759096,19.348,-99.152,McNuggets 10 piezas,83.54,,,,,,21.06,31,,9,commercial_residential,Coyoacan Centro
+Rappi,2026-04-01T19:32:17.769871,19.288,-99.136,Big Mac Tocino + favoritos,,328.0,39.0,200.08,true,global_offer,9.899999618530273,13 min,false,10,mid_income,Coapa
+Rappi,2026-04-01T19:32:17.770042,19.288,-99.136,McTrío mediano Big Mac Tocino,,169.0,0.0,,false,,9.899999618530273,13 min,false,10,mid_income,Coapa
+Uber,2026-04-02T00:32:17.771262,19.288,-99.136,Big Mac,163.79,,,,,,28.67,32,,10,mid_income,Coapa
+Uber,2026-04-02T00:32:17.771265,19.288,-99.136,10 McNuggets,94.56,,,,,,28.67,32,,10,mid_income,Coapa
+DiDi,2026-04-02T00:32:17.772307,19.288,-99.136,Big Mac,154.2,,,,,,29.82,33,,10,mid_income,Coapa
+DiDi,2026-04-02T00:32:17.772310,19.288,-99.136,McNuggets 10 piezas,87.49,,,,,,29.82,33,,10,mid_income,Coapa
+Rappi,2026-04-01T19:32:22.564616,19.303,-99.188,Big Mac Tocino + favoritos,,328.0,39.0,200.08,true,global_offer,9.899999618530273,15 min,false,11,high_income,Jardines del Pedregal
+Rappi,2026-04-01T19:32:22.564761,19.303,-99.188,McTrío mediano Big Mac Tocino,,169.0,0.0,,false,,9.899999618530273,15 min,false,11,high_income,Jardines del Pedregal
+Uber,2026-04-02T00:32:22.566117,19.303,-99.188,Big Mac,164.06,,,,,,21.01,34,,11,high_income,Jardines del Pedregal
+Uber,2026-04-02T00:32:22.566121,19.303,-99.188,10 McNuggets,93.31,,,,,,21.01,34,,11,high_income,Jardines del Pedregal
+DiDi,2026-04-02T00:32:22.567029,19.303,-99.188,Big Mac,147.57,,,,,,27.09,34,,11,high_income,Jardines del Pedregal
+DiDi,2026-04-02T00:32:22.567031,19.303,-99.188,McNuggets 10 piezas,83.68,,,,,,27.09,34,,11,high_income,Jardines del Pedregal
+Rappi,2026-04-01T19:32:25.437881,19.36,-99.074,Big Mac Tocino + favoritos,,328.0,39.0,200.08,true,global_offer,9.899999618530273,15 min,false,12,peripheral_populous,Iztapalapa Centro
+Rappi,2026-04-01T19:32:25.438037,19.36,-99.074,McTrío mediano Big Mac Tocino,,169.0,0.0,,false,,9.899999618530273,15 min,false,12,peripheral_populous,Iztapalapa Centro
+Uber,2026-04-02T00:32:25.439546,19.36,-99.074,Big Mac,167.14,,,,,,29.75,35,,12,peripheral_populous,Iztapalapa Centro
+Uber,2026-04-02T00:32:25.439550,19.36,-99.074,10 McNuggets,95.0,,,,,,29.75,35,,12,peripheral_populous,Iztapalapa Centro
+DiDi,2026-04-02T00:32:25.440971,19.36,-99.074,Big Mac,153.21,,,,,,26.34,32,,12,peripheral_populous,Iztapalapa Centro
+DiDi,2026-04-02T00:32:25.440975,19.36,-99.074,McNuggets 10 piezas,86.62,,,,,,26.34,32,,12,peripheral_populous,Iztapalapa Centro
+Rappi,2026-04-01T19:32:28.627390,19.483,-99.113,Big Mac Tocino + favoritos,,328.0,39.0,200.08,true,global_offer,9.899999618530273,13 min,false,13,peripheral,Lindavista
+Rappi,2026-04-01T19:32:28.627578,19.483,-99.113,McTrío mediano Big Mac Tocino,,169.0,0.0,,false,,9.899999618530273,13 min,false,13,peripheral,Lindavista
+Uber,2026-04-02T00:32:28.629211,19.483,-99.113,Big Mac,165.52,,,,,,25.12,31,,13,peripheral,Lindavista
+Uber,2026-04-02T00:32:28.629215,19.483,-99.113,10 McNuggets,95.21,,,,,,25.12,31,,13,peripheral,Lindavista
+DiDi,2026-04-02T00:32:28.630674,19.483,-99.113,Big Mac,152.89,,,,,,23.15,33,,13,peripheral,Lindavista
+DiDi,2026-04-02T00:32:28.630678,19.483,-99.113,McNuggets 10 piezas,85.52,,,,,,23.15,33,,13,peripheral,Lindavista
+Rappi,2026-04-01T19:32:32.678744,19.256,-99.103,Big Mac Tocino + favoritos,,328.0,39.0,200.08,true,global_offer,9.899999618530273,20 min,false,14,peripheral_populous,Xochimilco
+Rappi,2026-04-01T19:32:32.678983,19.256,-99.103,McTrío mediano Big Mac Tocino,,185.0,0.0,,false,,9.899999618530273,20 min,false,14,peripheral_populous,Xochimilco
+Uber,2026-04-02T00:32:32.680113,19.256,-99.103,Big Mac,166.89,,,,,,24.26,33,,14,peripheral_populous,Xochimilco
+Uber,2026-04-02T00:32:32.680116,19.256,-99.103,10 McNuggets,96.57,,,,,,24.26,33,,14,peripheral_populous,Xochimilco
+DiDi,2026-04-02T00:32:32.680915,19.256,-99.103,Big Mac,147.65,,,,,,21.62,33,,14,peripheral_populous,Xochimilco
+DiDi,2026-04-02T00:32:32.680917,19.256,-99.103,McNuggets 10 piezas,87.53,,,,,,21.62,33,,14,peripheral_populous,Xochimilco
+Rappi,2026-04-01T19:32:35.361348,19.4,-99.05,Big Mac Tocino + favoritos,,328.0,39.0,200.08,true,global_offer,9.899999618530273,13 min,false,15,peripheral_populous,Pantitlan
+Rappi,2026-04-01T19:32:35.361557,19.4,-99.05,McTrío mediano Big Mac Tocino,,169.0,0.0,,false,,9.899999618530273,13 min,false,15,peripheral_populous,Pantitlan
+Uber,2026-04-02T00:32:35.363753,19.4,-99.05,Big Mac,164.43,,,,,,20.5,31,,15,peripheral_populous,Pantitlan
+Uber,2026-04-02T00:32:35.363760,19.4,-99.05,10 McNuggets,94.73,,,,,,20.5,31,,15,peripheral_populous,Pantitlan
+DiDi,2026-04-02T00:32:35.365482,19.4,-99.05,Big Mac,148.78,,,,,,23.57,39,,15,peripheral_populous,Pantitlan
+DiDi,2026-04-02T00:32:35.365487,19.4,-99.05,McNuggets 10 piezas,87.01,,,,,,23.57,39,,15,peripheral_populous,Pantitlan
+Rappi,2026-04-01T19:32:39.885605,19.498,-99.21,Big Mac Tocino + favoritos,,328.0,39.0,200.08,true,global_offer,9.899999618530273,12 min,false,16,peripheral_industrial,Azcapotzalco
+Rappi,2026-04-01T19:32:39.886467,19.498,-99.21,McTrío mediano Big Mac Tocino,,169.0,0.0,,false,,9.899999618530273,12 min,false,16,peripheral_industrial,Azcapotzalco
+Uber,2026-04-02T00:32:39.889426,19.498,-99.21,Big Mac,167.3,,,,,,29.54,31,,16,peripheral_industrial,Azcapotzalco
+Uber,2026-04-02T00:32:39.889434,19.498,-99.21,10 McNuggets,94.63,,,,,,29.54,31,,16,peripheral_industrial,Azcapotzalco
+DiDi,2026-04-02T00:32:39.893079,19.498,-99.21,Big Mac,151.77,,,,,,27.59,31,,16,peripheral_industrial,Azcapotzalco
+DiDi,2026-04-02T00:32:39.893092,19.498,-99.21,McNuggets 10 piezas,85.61,,,,,,27.59,31,,16,peripheral_industrial,Azcapotzalco
+Rappi,2026-04-01T19:32:44.489991,19.315,-99.245,Big Mac Tocino + favoritos,,328.0,39.0,200.08,true,global_offer,9.899999618530273,30 min,false,17,peripheral_residential,Magdalena Contreras
+Rappi,2026-04-01T19:32:44.490182,19.315,-99.245,McTrío mediano Big Mac Tocino,,189.0,0.0,,false,,9.899999618530273,30 min,false,17,peripheral_residential,Magdalena Contreras
+Uber,2026-04-02T00:32:44.491543,19.315,-99.245,Big Mac,165.8,,,,,,24.57,25,,17,peripheral_residential,Magdalena Contreras
+Uber,2026-04-02T00:32:44.491547,19.315,-99.245,10 McNuggets,94.84,,,,,,24.57,25,,17,peripheral_residential,Magdalena Contreras
+DiDi,2026-04-02T00:32:44.493052,19.315,-99.245,Big Mac,154.03,,,,,,25.22,34,,17,peripheral_residential,Magdalena Contreras
+DiDi,2026-04-02T00:32:44.493056,19.315,-99.245,McNuggets 10 piezas,86.43,,,,,,25.22,34,,17,peripheral_residential,Magdalena Contreras
+Rappi,2026-04-01T19:32:49.294358,19.38,-99.09,Big Mac Tocino + favoritos,,328.0,39.0,200.08,true,global_offer,9.899999618530273,20 min,false,18,mid_income,Iztacalco
+Rappi,2026-04-01T19:32:49.294964,19.38,-99.09,McTrío mediano Big Mac Tocino,,169.0,0.0,,false,,9.899999618530273,20 min,false,18,mid_income,Iztacalco
+Uber,2026-04-02T00:32:49.298170,19.38,-99.09,Big Mac,165.34,,,,,,27.74,34,,18,mid_income,Iztacalco
+Uber,2026-04-02T00:32:49.298181,19.38,-99.09,10 McNuggets,95.86,,,,,,27.74,34,,18,mid_income,Iztacalco
+DiDi,2026-04-02T00:32:49.300546,19.38,-99.09,Big Mac,154.9,,,,,,26.35,31,,18,mid_income,Iztacalco
+DiDi,2026-04-02T00:32:49.300554,19.38,-99.09,McNuggets 10 piezas,83.69,,,,,,26.35,31,,18,mid_income,Iztacalco
+Rappi,2026-04-01T19:32:52.564497,19.45,-99.178,McTrío mediano Big Mac Tocino,,169.0,0.0,,false,,9.899999618530273,13 min,false,19,mid_income,Anzures
+Rappi,2026-04-01T19:32:52.564644,19.45,-99.178,Big Mac Tocino,,145.0,0.0,,false,,9.899999618530273,13 min,false,19,mid_income,Anzures
+Uber,2026-04-02T00:32:52.565955,19.45,-99.178,Big Mac,162.47,,,,,,26.69,33,,19,mid_income,Anzures
+Uber,2026-04-02T00:32:52.565958,19.45,-99.178,10 McNuggets,94.95,,,,,,26.69,33,,19,mid_income,Anzures
+DiDi,2026-04-02T00:32:52.566979,19.45,-99.178,Big Mac,149.33,,,,,,22.06,38,,19,mid_income,Anzures
+DiDi,2026-04-02T00:32:52.566982,19.45,-99.178,McNuggets 10 piezas,86.36,,,,,,22.06,38,,19,mid_income,Anzures
+Rappi,2026-04-01T19:32:56.791630,19.426,-99.168,Big Mac Tocino + favoritos,,328.0,39.0,200.08,true,global_offer,9.899999618530273,13 min,false,20,commercial,Zona Rosa
+Rappi,2026-04-01T19:32:56.792119,19.426,-99.168,McTrío mediano Big Mac Tocino,,169.0,0.0,,false,,9.899999618530273,13 min,false,20,commercial,Zona Rosa
+Uber,2026-04-02T00:32:56.793590,19.426,-99.168,Big Mac,164.44,,,,,,20.53,30,,20,commercial,Zona Rosa
+Uber,2026-04-02T00:32:56.793593,19.426,-99.168,10 McNuggets,96.64,,,,,,20.53,30,,20,commercial,Zona Rosa
+DiDi,2026-04-02T00:32:56.794499,19.426,-99.168,Big Mac,152.44,,,,,,29.54,40,,20,commercial,Zona Rosa
+DiDi,2026-04-02T00:32:56.794502,19.426,-99.168,McNuggets 10 piezas,83.8,,,,,,29.54,40,,20,commercial,Zona Rosa

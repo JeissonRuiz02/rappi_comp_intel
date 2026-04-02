@@ -1,0 +1,20 @@
+# Git attributes para mejor handling de archivos
+
+# Text files
+*.py text eol=lf
+*.md text eol=lf
+*.sh text eol=lf
+*.txt text eol=lf
+*.csv text eol=lf
+
+# Images
+*.png binary
+*.jpg binary
+*.jpeg binary
+
+# Notebooks
+*.ipynb text eol=lf
+
+# Archives
+*.zip binary
+*.tar.gz binary
