@@ -462,7 +462,7 @@ class NuevoScraper(BaseScraper):
 
 ## 📄 Licencia
 
-Este proyecto es para fines educativos y de investigación. Asegúrate de cumplir con los términos de servicio de cada plataforma.
+Este proyecto es para fines educativos y de investigación.
 
 ## 🤝 Contribuciones
 
