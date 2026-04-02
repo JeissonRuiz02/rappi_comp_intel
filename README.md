@@ -8,7 +8,6 @@ Este sistema recopila datos de productos, precios y descuentos de múltiples pla
 
 **Status del Proyecto**: Sistema completamente funcional y listo para entrega  
 **Última Actualización**: Abril 1, 2026  
-**Score Estimado**: 91/100 puntos
 
 ## 🏗️ Arquitectura
 
